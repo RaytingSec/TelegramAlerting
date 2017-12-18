@@ -5,9 +5,9 @@ Keep track of your servers, know your programs' run results, and get notified of
 
 ## Setup
 
-1. First create a bot and copy it's token.
+1. Create a bot and copy it's token.
 
-2. First use `blankdata.json` to create your `data.json`. Enter your Telegram username to other people aren't snooping on your alerts, and your bot's token.
+2. Use `blankdata.json` to create your `data.json`. Enter your Telegram username to other people aren't snooping on your alerts, and your bot's token.
 
 3. Clone the repo and run the following inside:
 
