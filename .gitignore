@@ -1,0 +1,11 @@
+# Python
+.venv/
+*.pyc
+__pycache__/
+
+# Project files
+onetime.py
+
+# Misc
+tg-alerts.sublime-project
+tg-alerts.sublime-workspace
