@@ -1,6 +1,8 @@
 tg-alerts
 ==============================
 
+Keep track of your servers, know your programs' run results, and get notified of notable log events. Use alerts!
+
 ## Setup
 
 1. First create a bot and copy it's token.
