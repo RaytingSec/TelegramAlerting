@@ -4,6 +4,7 @@
 __pycache__/
 
 # Project files
+data.json
 onetime.py
 
 # Misc
